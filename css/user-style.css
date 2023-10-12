@@ -1,0 +1,214 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#igsckf {
+    color: #ffffff;
+}
+
+#i05evs {
+    color: #ffffff;
+}
+
+#iana3m {
+    color: #ffffff;
+}
+
+#istgej {
+    position: static;
+    text-align: center;
+    color: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.c5824 {
+    display: none;
+}
+
+footer {
+    font-size: 16px;
+}
+
+footer a {
+    color: rgb(68, 68, 68);
+}
+
+footer a:hover {
+    color: rgb(0, 86, 179);
+}
+
+footer .nav-link {
+    display: block;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0px;
+    text-decoration-line: none;
+}
+
+.fdb-block .text-h3 {
+    font-size: 0.875rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h3 a {
+    margin-right: 12px;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.nav-link {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-image-source: none;
+    border-image-slice: 100%;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    color: #ffffff;
+    border: 0px solid black;
+}
+
+.c14657 {
+    letter-spacing: normal;
+    word-spacing: 0px;
+    caret-color: rgb(255, 255, 255);
+    color: #000000;
+    font-family: "Open Sans", "Open Sans", Arial, sans-serif;
+    font-size: 68.464958px;
+    text-align: center;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke-width: 1px;
+}
+
+.c14832 {
+    word-spacing: 0px;
+    caret-color: rgb(255, 255, 255);
+    color: #000000;
+    font-family: "Open Sans", "Open Sans", Arial, sans-serif;
+    font-size: 25.17094px;
+    text-align: center;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke-width: 1px;
+}
+
+.c24566 {
+    word-spacing: 0.05rem;
+}
+
+.c10160 {
+    caret-color: rgb(52, 63, 82);
+    color: rgb(52, 63, 82);
+}
+
+.c10580 {
+    caret-color: rgb(175, 175, 175);
+    color: rgb(175, 175, 175);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+    font-size: 22.5px;
+    font-weight: 300;
+    letter-spacing: normal;
+    text-align: center;
+    word-spacing: 1px;
+}
+
+.nav-link.active {
+    color: #ffffff;
+}
+
+.c8117 {
+    letter-spacing: normal;
+    word-spacing: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    caret-color: rgb(230, 237, 243);
+    color: rgb(230, 237, 243);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+}
+
+.c4904 {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.c4893 {
+    color: rgb(230, 237, 243);
+    display: flex;
+    align-items: center;
+    min-width: 3ch;
+    line-height: var(--text-body-lineHeight-medium, 1.4285714286);
+    border-radius: var(--borderRadius-medium, 6px);
+    padding-inline: var(--control-medium-paddingInline-condensed, 8px);
+    padding-block: var(--control-medium-paddingBlock, 6px);
+}
+
+.c4885 {
+    display: inline-grid;
+    grid-auto-flow: column;
+    align-items: center;
+    flex: 0 1 max-content;
+}
