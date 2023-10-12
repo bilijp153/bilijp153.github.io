@@ -6,24 +6,6 @@ body {
     margin: 0;
 }
 
-#igsckf {
-    color: #ffffff;
-}
-
-#i05evs {
-    color: #ffffff;
-}
-
-#iana3m {
-    color: #ffffff;
-}
-
-#istgej {
-    position: static;
-    text-align: center;
-    color: #ffffff;
-}
-
 * {
     box-sizing: border-box;
 }
@@ -211,4 +193,22 @@ h3 {
     grid-auto-flow: column;
     align-items: center;
     flex: 0 1 max-content;
+}
+
+.c4475 {
+    color: #ffffff;
+}
+
+.c4627 {
+    color: #ffffff;
+}
+
+.c4763 {
+    color: #ffffff;
+}
+
+.c4955 {
+    position: static;
+    text-align: center;
+    color: #ffffff;
 }
